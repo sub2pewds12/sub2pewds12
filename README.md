@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sub2pewds12
-- 👀 I’m interested in playing football
+- 👀 I’m interested in playing football and badminton
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on nothing because I do not have the skill yet
 - 📫 How to reach me DM me on Discord at sub2pewds12
