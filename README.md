@@ -1,13 +1,4 @@
-# 💫About Me :
-👋 Hi, I’m @sub2pewds12
 
-👀 I’m interested in playing football and badminton
-
-🌱 I’m currently learning DevOps
-
-📫 How to reach me DM me on Discord at sub2pewds12
-
-😄 Pronouns: he/him
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/anhkhoi.le.7568) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/leanhkhoi1010/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anh-kh%C3%B4i-l%C3%AA-086522324/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Melodic_Cellist_7756/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@subtwopewds12) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@subpewds-ni3kl) 
