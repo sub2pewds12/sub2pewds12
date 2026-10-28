@@ -37,10 +37,8 @@ Also use: Docker Compose · SQL Server Management Studio · Bash · PowerShell
 C/C++ · FastAPI · .NET · gRPC · Grafana · LaTeX
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sub2pewds12&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sub2pewds12&theme=calm&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sub2pewds12&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sub2pewds12&theme=calm&hide_border=false&include_all_commits=true)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy-unserori.vercel.app/?username=sub2pewds12&theme=radical&no-frame=false&no-bg=false&margin-w=4)
